@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Datax/static/css/main.87b5276c.css",
+    "main.js": "/Datax/static/js/main.c1408632.js",
+    "static/media/DoubleUser.png": "/Datax/static/media/DoubleUser.9efa808415e87609185d.png",
+    "index.html": "/Datax/index.html",
+    "main.87b5276c.css.map": "/Datax/static/css/main.87b5276c.css.map",
+    "main.c1408632.js.map": "/Datax/static/js/main.c1408632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b5276c.css",
+    "static/js/main.c1408632.js"
+  ]
+}
